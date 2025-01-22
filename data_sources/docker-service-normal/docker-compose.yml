@@ -1,0 +1,6 @@
+version: '3.7'
+services:
+  collect_publish_normal:
+    image: data_source_service_normal
+  collect_publish_edge_normal:
+    image: data_source_service_edge_normal

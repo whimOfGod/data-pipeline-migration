@@ -1,0 +1,13 @@
+{
+    "system_packages": [
+      "openjdk-8-jdk"
+    ],
+    "python_dependencies": [
+      "kafka-python",
+      "confluent-kafka",
+      "psutil",
+      "numpy",
+      "scikit-learn"
+    ]
+  }
+  

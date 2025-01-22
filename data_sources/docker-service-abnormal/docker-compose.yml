@@ -1,0 +1,6 @@
+version: '3.7'
+services:
+  collect_publish_abnormal:
+    image: data_source_service_abnormal
+  collect_publish_edge_abnormal:
+    image: data_source_service_edge_abnormal
